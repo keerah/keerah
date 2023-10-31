@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keerah
 - 👀 I’m interested in knowing things
-- 🎡I make thngs move on the screen
+- 🎡I make things move on the screen
 - 🪢I collect images of wires
 - 🌱 I’m currently learning Houdini
 
