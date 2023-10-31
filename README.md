@@ -1,9 +1,9 @@
-👋 Hi, I’m @keerah
-👀 I’m interested in knowing things
-🎡 I make things move on the screens
-🪢 I collect images of wires
-🌱 I currently learn Houdini
-🚀 I even write some ugly code that still makes things happen way faster
+👋 Hi, I’m @keerah </br>
+👀 I’m interested in knowing things </br>
+🎡 I make things move on the screens </br>
+🪢 I collect images of wires </br>
+🌱 I currently learn Houdini </br>
+🚀 I even write some ugly code that is still able to make things happen way faster </br>
 
 <!---
 keerah/keerah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
